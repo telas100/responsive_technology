@@ -1,0 +1,35 @@
+
+TP Responsive Web Design
+
+============================================
+Notation : 2 points
+Groupes de 3 maximum
+Rendu: francois@kiliweb.fr
+============================================
+
+1. Installer Bootstrap
+
+2. Centrer les éléments sur la page grace à un container Bootstrap
+
+3. Utiliser la grille fluide de Bootstrap pour définir la largeur des éléments
+
+4. Utiliser les classes de grille (col-xs-* / col-md-* etc.) pour affichier successivement les ablums par 6 sur grand ecran, 4 pour les tablettes et 3 en dessous
+
+5. Utiliser Bootstrap pour :
+	- Masquer la colonne de gauche sur mobile et sur tablette en mode portrait
+	- Aligner les liens Collection et History à droite lorsque l'espace disponible deviens insuffisant
+	- Mettre en place le menu déroulant (en haut à droite)
+	- Afficher les icones dans le menu déroulant
+
+6. Remplacer toutes les tailles de police en pixel par des unitées relatives (em ou rem)
+
+7. Régler le viewport pour les mobiles
+
+8. Utiliser les medias queries pour :
+	- Masquer le champs de recherche lorsque l'espace disponible deviens insuffisant
+	- Masquer les icones twitter et facebook sur mobile
+	- Présenter les albums 2 par 2 à partir d'une largeur d'écran de 450px
+
+9. Ajuster la taille du texte au 3 points de ruptures suivants : 1400px (grossir) / 600px (plus petit) / 450px (encore plus petit)
+
+10. Redimensionner la fenêtre du navigateur, et tester que la page est visuellement cohérente à toutes les résolutions. Faire les ajustements nécéssaires avec les media queries
